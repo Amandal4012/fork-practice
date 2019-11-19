@@ -31,7 +31,8 @@ Make me _italicized_
 
 [HSTAT Website](www.hstat.org)
 
-Turn this entire line of text into code
+`Turn this entire line of text into code
+`
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
