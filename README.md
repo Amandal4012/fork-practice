@@ -29,7 +29,7 @@ Make me **bold**
 
 Make me _italicized_
 
-Turn this entire line of text into a link that goes to hstat.org
+[HSTAT Website](www.hstat.org)
 
 Turn this entire line of text into code
 
