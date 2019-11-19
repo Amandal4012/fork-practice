@@ -27,7 +27,7 @@ the preview it looks like one line
 
 Make me **bold**
 
-Make me italicized
+Make me _italicized_
 
 Turn this entire line of text into a link that goes to hstat.org
 
